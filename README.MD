@@ -7,11 +7,6 @@ This is an backend assignment for the backend developer intern position by BEH p
 
 [![hoster.png](https://i.postimg.cc/jj5MnzpK/hoster.png)](https://postimg.cc/ZWG81yYD)
 
-
-
-
-
-
 ## Deployment
 
 To deploy this project run
@@ -57,6 +52,8 @@ once login is successfull we therefore send the x-access-token as an response he
 2. users collections - https://documenter.getpostman.com/view/25278588/2s93RUvsHJ
 
 3. auth collections - https://documenter.getpostman.com/view/25278588/2s93RUvs8b
+
+The backend is therefore deployed on the railway app into the production therefore can directly check the api using the above postman documentation without running the app in the localsystem.
 
 
 
